@@ -26,6 +26,14 @@ User → Streamlit UI → Backend (Python/Flask logic) → Hugging Face API → 
 - **AI Models:** Hugging Face models (DeepSeek, Phi-2, Gemma, Stable-Code, Replit)  
 - **Deployment:** ngrok (for public link generation)
 
+##  Features
+- Secure **Login/Signup** with password hashing  
+- **Forgot Password** via email verification  
+- **Code Generation** using 5 Hugging Face models  
+- **Code Explanation** for understanding logic  
+- **User Profile Page** showing personal info  
+- **History Page** displaying past prompts and outputs  
+- **MongoDB integration** for persistent data storage
 
 
 ##  User Authentication System
