@@ -16,7 +16,7 @@ This milestone focuses on combining **AI-based code intelligence**, **user authe
 Include a simple diagram or explanation showing how different components (Frontend - Streamlit, Backend - Python, Database - MongoDB Atlas, and Hugging Face models) interact with each other.
 
 Example:
-User → Streamlit UI → Backend (Python/Flask logic) → Hugging Face API → MongoDB Atlas
+User → Streamlit UI → Hugging Face Token and Ngrok Token → MongoDB Atlas
 
 ##  Technologies Used
 - **Frontend:** Streamlit  
