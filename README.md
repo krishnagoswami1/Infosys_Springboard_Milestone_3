@@ -1,5 +1,17 @@
 # Infosys_Springboard_Milestone_3
-## 📸 Project Screenshots
+
+
+## 🧩 User Authentication System
+
+### 1. 🔐 Login and Signup
+- Secure **user registration** and **login system** integrated with **MongoDB Atlas**.  
+- **Passwords** are **hashed and securely stored** to ensure user privacy and data protection.  
+- **Login credentials** are **verified with the backend** before granting access to the user dashboard.  
+
+### 2. 🔑 Forgot Password
+- Includes a **password recovery feature** using **SMTP Email Service**.  
+- Users can **reset their password securely** via **email authentication**.  
+- Ensures a smooth and safe way to regain account access in case of forgotten credentials.  
 
 ### 🔹 1. Login and Signup
 <img src="https://github.com/krishnagoswami1/Infosys_Springboard_Milestone_3/blob/main/1.png" width="600">
