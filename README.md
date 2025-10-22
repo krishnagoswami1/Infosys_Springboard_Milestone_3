@@ -18,6 +18,15 @@ Include a simple diagram or explanation showing how different components (Fronte
 Example:
 User → Streamlit UI → Backend (Python/Flask logic) → Hugging Face API → MongoDB Atlas
 
+##  Technologies Used
+- **Frontend:** Streamlit  
+- **Backend:** Python  
+- **Database:** MongoDB Atlas  
+- **Email Service:** SMTP (for password recovery)  
+- **AI Models:** Hugging Face models (DeepSeek, Phi-2, Gemma, Stable-Code, Replit)  
+- **Deployment:** ngrok (for public link generation)
+
+
 
 ##  User Authentication System
 
