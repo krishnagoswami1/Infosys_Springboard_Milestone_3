@@ -1,4 +1,4 @@
-# Infosys_Springboard_Milestone_3
+# Infosys_Springboard_Milestone3
 
 ##  Problem Statement
 
@@ -21,7 +21,8 @@ User → Streamlit UI → Hugging Face Token and Ngrok Token → MongoDB Atlas
 ##  Technologies Used
 - **Frontend:** Streamlit  
 - **Backend:** Python  
-- **Database:** MongoDB Atlas  
+- **Database:** MongoDB Atlas
+- **Authuntication:** JWT
 - **Email Service:** SMTP (for password recovery)  
 - **AI Models:** Hugging Face models (DeepSeek, Phi-2, Gemma, Stable-Code, Replit)  
 - **Deployment:** ngrok (for public link generation)
