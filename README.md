@@ -1,5 +1,17 @@
 # Infosys_Springboard_Milestone_3
 
+##  Problem Statement
+
+The objective of **Milestone 3** in the *Infosys CodeGenieAI* project is to build an **end-to-end intelligent Code Generation and Explanation System** with secure user management and database integration.
+
+The system should:
+- Allow users to **sign up, log in, and recover passwords** securely using **MongoDB Atlas** and **SMTP Email Services**.  
+- Enable users to **generate code** from natural language prompts using multiple **Hugging Face code models**.  
+- Provide detailed **code explanations** to help users understand generated or custom code.  
+- Maintain a **user profile and interaction history**, storing all prompts, model outputs, and explanations in the database.  
+- Offer a simple, interactive **Streamlit-based UI** for smooth user experience and visualization of model outputs.
+
+This milestone focuses on combining **AI-based code intelligence**, **user authentication**, and **database-backed history tracking** into one unified web application.
 
 ##  User Authentication System
 
