@@ -36,6 +36,19 @@
 <img src="https://github.com/krishnagoswami1/Infosys_Springboard_Milestone_3/blob/main/12.png" width="600">
 <img src="https://github.com/krishnagoswami1/Infosys_Springboard_Milestone_3/blob/main/13.png" width="600">
 
+##  Database Integration
+
+### Database: **MongoDB Cloud (MongoDB Atlas)**
+
+### Collection Structure
+
+| **Collection** | **Purpose** |
+|-----------------|-------------|
+| `users` | Stores user authentication details such as **username**, **email**, and **hashed password**. |
+| `prompts` | Stores all **prompts entered by users** along with the **model name**, **generated output**, and **timestamp**. |
+| `history` | Tracks **past interactions** and **usage history** for each user. |
+
+
 ###  6. MongoDB and Backend Connections
 <img src="https://github.com/krishnagoswami1/Infosys_Springboard_Milestone_3/blob/main/14.png" width="600">
 <img src="https://github.com/krishnagoswami1/Infosys_Springboard_Milestone_3/blob/main/15.png" width="600">
