@@ -89,6 +89,28 @@ User → Streamlit UI → Hugging Face Token and Ngrok Token → MongoDB Atlas
 <img src="https://github.com/krishnagoswami1/Infosys_Springboard_Milestone_3/blob/main/15.png" width="600">
 <img src="https://github.com/krishnagoswami1/Infosys_Springboard_Milestone_3/blob/main/16.png" width="600">
 
+### 8. Model Comparison
+
+The project integrates **five advanced Hugging Face code models**, each with unique strengths in **code generation** and **explanation tasks**.  
+Below is the comparison based on **model type, parameter size, response quality, and performance** observed during testing.
+
+| **Model Name** | **Developer** | **Parameters** | **Strengths** | **Limitations** | **Overall Performance** |
+|-----------------|----------------|----------------|----------------|------------------|--------------------------|
+|  **DeepSeek-Coder-1.3B-Instruct** | DeepSeek AI | 1.3B | Fast and efficient for short code prompts; performs well in Python and C++ | Struggles with longer logic or multi-step reasoning | ⚡ Great for quick, lightweight code generation |
+|  **Phi-2 (2.7B)** | Microsoft | 2.7B | Very good at understanding natural language prompts; produces readable and clean code | Slightly slower response time compared to smaller models | 💡 Excellent balance between clarity and accuracy |
+|  **Gemma-2B-IT** | Google | 2B | Strong in structured code explanation and logical reasoning; performs well with Java/Python | Code generation speed moderate; less creative in syntax variations | 🧩 Best for step-by-step code explanations |
+|  **Stable-Code-3B** | Stability AI | 3B | Excels in multi-line and complex program generation; handles large prompts effectively | High resource usage; slower response for small tasks | ⚙️ Best for complex and lengthy code generation |
+
+###  Summary
+- **Best for Beginners:**  *Phi-2 (Microsoft)* — simple, clear, and easy to understand.  
+- **Best for Explanations:**  *Gemma-2B-IT (Google)* — detailed and logical explanations.  
+- **Best for Complex Code:**  *Stable-Code-3B (Stability AI)* — handles advanced programming tasks well.  
+- **Best Overall Balance:**  *Replit-Code-3B (Replit)* — reliable, practical, and versatile in multiple coding domains.  
+- **Fastest Response:** *DeepSeek-Coder-1.3B* — lightweight and efficient.  
+
+This multi-model integration allowed the system to **compare and visualize the strengths of each model**, ensuring diverse and high-quality code generation for every prompt.
+
+
 ##  Conclusion
 
 The **CodeGenieAI Milestone 3 Project** successfully integrates **AI-powered code generation**, **secure user authentication**, and **cloud-based data management** into a single, interactive web platform.  
